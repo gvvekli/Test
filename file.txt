@@ -8,6 +8,7 @@ new line
 add line to lockal file
 new branch line
 conflict btan
-giugiu gui
+
 new changes 07/08/2022
 one more 07/08/2022
+gui 070822
